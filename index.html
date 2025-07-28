@@ -12,25 +12,33 @@
     <img src="logo.png" alt="Elegance Attire Logo" class="logo" />
     <h1>Elegance Attire</h1>
     <p>Premium Bedsheets & Women's Clothing</p>
+    <a href="admin.html" class="admin-link">Admin Panel</a>
   </header>
 
   <section class="products">
     <div class="product">
-      <img src="product1.jpg" alt="3D Bedsheet" />
-      <h2>3D Bedsheet Set</h2>
-      <p>৳1350 - Soft cotton, queen size</p>
-      <a class="order-btn" href="https://wa.me/8801980281691?text=I%20want%20to%20order%20the%203D%20Bedsheet%20Set.">Order on WhatsApp</a>
+      <a href="product1.html">
+        <img src="product1.jpg" alt="3D Bedsheet" />
+        <span class="badge">Limited Offer</span>
+        <h2>3D Bedsheet Set</h2>
+        <p><span class="old-price">৳1350</span> <span class="offer-price">৳1250</span></p>
+        <div class="timer" id="timer1"></div>
+      </a>
     </div>
     <div class="product">
-      <img src="product2.jpg" alt="Waterproof Bedsheet" />
-      <h2>Waterproof Bedsheet</h2>
-      <p>৳950 - Perfect for kids & pets</p>
-      <a class="order-btn" href="https://wa.me/8801980281691?text=I%20want%20to%20order%20the%20Waterproof%20Bedsheet.">Order on WhatsApp</a>
+      <a href="product2.html">
+        <img src="product2.jpg" alt="Waterproof Bedsheet" />
+        <span class="badge">Limited Offer</span>
+        <h2>Waterproof Bedsheet</h2>
+        <p><span class="old-price">৳1150</span> <span class="offer-price">৳980</span></p>
+        <div class="timer" id="timer2"></div>
+      </a>
     </div>
   </section>
 
   <footer>
     <p>© 2025 Elegance Attire</p>
   </footer>
+  <script src="timer.js"></script>
 </body>
 </html>
