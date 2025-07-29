@@ -1,2 +1,2 @@
 # Elegance Attire
-Complete site with admin login, product filtering, mobile-friendly layout, and order management.
+This is a mobile-friendly online store with admin login and basic layout.

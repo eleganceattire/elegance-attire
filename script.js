@@ -1,5 +1,5 @@
 function filterCategory(cat) {
-  alert("Filtering: " + cat);
+  alert("Filtering category: " + cat);
 }
 function toggleMenu() {
   const menu = document.getElementById("menu-dropdown");
