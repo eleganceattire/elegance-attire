@@ -1,0 +1,9 @@
+body { font-family: Arial; margin: 0; }
+header { background: #f2f2f2; padding: 10px; text-align: center; }
+#logo { height: 50px; }
+nav { margin-top: 10px; }
+button { margin: 2px; padding: 6px 10px; }
+.admin-menu { display: inline-block; position: relative; }
+.admin-menu span { cursor: pointer; font-size: 20px; }
+.dropdown { display: none; position: absolute; right: 0; background: #fff; border: 1px solid #ccc; }
+.dropdown a { display: block; padding: 8px; text-decoration: none; }
