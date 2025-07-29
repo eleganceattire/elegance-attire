@@ -1,1 +1,1 @@
-console.log('Elegance Attire JS Loaded');
+console.log('Elegance Attire Site Active');
