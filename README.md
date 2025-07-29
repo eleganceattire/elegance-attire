@@ -1,3 +1,2 @@
-# Elegance Attire Website
-
-Final version with admin panel, product management, WhatsApp automation, and mobile-friendly layout.
+# Elegance Attire
+Final build including full frontend, admin panel, and feature setup.
