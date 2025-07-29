@@ -1,0 +1,14 @@
+[
+  {
+    "name": "3D Floral Bed Sheet",
+    "price": 1350,
+    "offer_price": 1250,
+    "image": "bed1.jpg"
+  },
+  {
+    "name": "Elegant Dining Cover",
+    "price": 1150,
+    "offer_price": 1050,
+    "image": "dining1.jpg"
+  }
+]
